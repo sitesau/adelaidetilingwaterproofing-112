@@ -1,0 +1,22 @@
+{
+  "wheel_id": 846,
+  "structure": "umbrella",
+  "slug": "adelaidetilingwaterproofing-112",
+  "project": "tiling-services-adelaide-seasonal-timing-1984eb50de26519a46691c",
+  "parent_t1_ref": "adelaidetilingwaterproofing-155",
+  "node_role": "feeder",
+  "money_target": "adelaidetilingwaterproofing.com.au",
+  "primary_kw": "tiling services adelaide seasonal timing",
+  "intended_url": "http://tiling-services-adelaide-seasonal-timing-1984eb50de26519a46691c.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "8d30dd79fc0f6bd7",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/tiling-services-adelaide-diy-vs-professional-3d3f56ac8519b26d72/",
+      "anchor": "https://sites-e470-2.web.app/tiling-services-adelaide-diy-vs-professional-3d3f56ac8519b26d72/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
